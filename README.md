@@ -4,9 +4,10 @@ On the fence between elegance and chaos, the 'agent' is currently a:
 1) Scheduled Task
 2) Running every minute
 3) As "System"
-4) Calling an HTTPS endpoint
+4) Calling a server (ssh and https are being considered)
 5) And executing the instructions returned
 
 Seems simple enough, perhaps too simple, what's to stop a malicioius user from joining? What's to stop one from masqarading as another?
 
 Perhaps an ssh client over ssh can help with some of the issues
+
